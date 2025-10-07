@@ -20,3 +20,6 @@ Learnt Query and Path parameters and validations including making models using p
 
 3-10-2025
 Learnt about the Body() type and cookie & header parameters along with form data and file data types
+
+4-10-2025 -- 7-10-2025
+Learnt about Dependencies and the Sub Dependencies
